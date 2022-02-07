@@ -1,7 +1,15 @@
-Email-Sender
+# EmailSender
 
-Un semplice Email-Sender che utilizza il modulo smtplib con aggiunta di interfaccia grafica realizzata con il modulo tkinter
+A simple Email-Sender that uses the smtplib module with the addition of a graphical interface created with the tkinter module
 
-Per il corretto funzionamento bisogna inserire la propia email e password di un account gmail (esistente), fatto ciò con il pulsante "registrati" verra registrato un "account" sotto forma di file.txt nel path che si desidera, (il metodo di salvataggio è imperfetto ma non avendo conoscenze sui database è una semplice alternativa) dopo essersi registrati fare il login tramite il pulsante apposito (ATTENZIONE il path dove è stato salvato l'account deve essere lo stesso quando si effettua il login) consiglio: usare lo stesso path per tutti gli account, effettuato il login inserire l'email del destinatario (@gmail.com).
+## Requirements
 
-Ps: la propia gmail deve essere autorizzata per essere usata da programmi di terze parti
+For correct operation, you need to enter your email and password of an (existing) gmail account, after using the "register" button an "account" will be registered in the form of file.txt in the path you want, (the saving method is imperfect but having no knowledge of databases is a simple alternative) after registering, log in using the appropriate button.
+
+## Advertising!!
+
+ATTENTION the path where the account was saved must be the same when logging in) advice: use the same path for all accounts, once logged in, enter the recipient's email (@ gmail.com).
+
+## Ps:
+
+Your gmail must be authorized for use by third party programs.
